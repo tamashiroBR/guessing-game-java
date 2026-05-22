@@ -22,7 +22,7 @@ Um jogo interativo de console em Java onde o jogador deve adivinhar um número s
 2. Clone o repositório
 3. Navegue até o diretório do projeto:
    ```bash
-   cd 7-guessing-game-java
+   cd guessing-game-java
    ```
 4. Compile o código:
    ```bash
